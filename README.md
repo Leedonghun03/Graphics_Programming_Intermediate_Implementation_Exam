@@ -1,5 +1,5 @@
 # Graphics_Programming_Intermediate_Implementation_Exam
-그래픽스 프로그래밍 중간 구현 과제입니다.
+그래픽스 프로그래밍 중간 구현 시험 입니다.
 
 구현 내용은 다음과 같았습니다.<br/>
 지구와 달의 박스를 제작 후 각자 조건에 자전을 합니다.<br/>
